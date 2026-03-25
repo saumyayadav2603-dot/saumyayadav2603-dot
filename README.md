@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech CSE- 2nd Year
+- 🎓 B.Tech CSE- Undergraduate
 - 💡 Interested in **AI, Web Development & Cybersecurity**
 - 🚀 Building real-world projects like Smart Apps & Civic Tech
 - 📚 Currently learning: **Full Stack + Security fundamentals**
